@@ -1,1 +1,3 @@
 # introductory_html_page
+
+Basically I made an introductory page through html and a bit css to practisce my basic skills.....
